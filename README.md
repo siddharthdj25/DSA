@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthdj25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthdj25/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthdj25/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddharthdj25/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/siddharthdj25/DSA/tree/master/1929-concatenation-of-array) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/siddharthdj25/DSA/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
