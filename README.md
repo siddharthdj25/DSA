@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/siddharthdj25/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthdj25/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddharthdj25/DSA/tree/master/1672-richest-customer-wealth) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/siddharthdj25/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
