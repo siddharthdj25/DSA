@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/siddharthdj25/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/siddharthdj25/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthdj25/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/siddharthdj25/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddharthdj25/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthdj25/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddharthdj25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/siddharthdj25/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
